@@ -9,7 +9,8 @@ relative_permalinks: true
 # Setup
 title:            '@bazbt3'
 tagline:          '…a simple blog by a simple man.'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Simple* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, food provider to Mollie cat, poop scooper to Ruby dog. Asks silly questions. <br> [UK] <br> INTJ (hid well.)'
+
 url:              http://bazbt3.github.io
 baseurl:          /
 
@@ -22,5 +23,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
+github:           https://github.com/bazbt3
   repo:           https://github.com/bazbt3/bazbt3.github.io
