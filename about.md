@@ -1,30 +1,27 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Me:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+A simple\* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, Mollie cat's food provider, Ruby dog's poop scooper. Asks silly questions.
 
-There are currently two themes built on Poole:
+[UK]
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+INTJ (hid well.)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I'm [@bazbt3](https://alpha.app.net/bazbt3) on the App.net social network.
 
-## Setup
+Though I'm currently running two in parallel, my *real* blog is at [blog.bt3.com.](http://blog.bt3.com) (Don't worry about the redirect to re-app.net, that's the actual hosting service - see the [Links](/links/) page for more.)
 
-Some fun facts about the setup of this project include:
+---
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Links:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+A select, er… selection of vaguely-related **[links.](/links/)**
 
-Thanks for reading!
+---
+
+\*Likes footnotes. 
