@@ -23,4 +23,4 @@ permalink: /links/
 
 ### Meta:
 
-* This blog uses the [jekyll-now](https://github.com/barryclark/jekyll-now) repo as its base.
+* This blog uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
