@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            '@bazbt3'
 tagline:          '…a simple blog by a simple man.'
-description:      'Simple* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, food provider to Mollie cat, poop scooper to Ruby dog. Asks silly questions. <br> [UK] <br> INTJ (hid well.)'
+description:      'Simple* man with a wonderful wife, 2 daughters. Alpha male to Loki cat, food provider to Mollie cat, poop scooper to Ruby dog. Asks silly questions. <br> <br> *Likes footnotes.'
 
 url:              http://bazbt3.github.io
 baseurl:          /
@@ -19,5 +19,3 @@ author:
   url:            https://app.net/bazbt3
 
 paginate:         5
-
-# Custom vars
