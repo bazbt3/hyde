@@ -35,6 +35,8 @@ So, this blog post ends as the year ends, on a low note:
 
 The *only* standout was a weekend trip to London with my family, my first.  (Family *and* trip to England's capital.)
 
+[Edit:] Ruby puppy arrived in April.  Now *that* changes my perspective a tiny bit towards favouring 'balance.'
+
 ---
 
 \*I can't honestly recall when I started using footnotes, it *could* have been 2014.
