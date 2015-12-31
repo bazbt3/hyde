@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            '@bazbt3'
 tagline:          '…a simple blog by a simple man.'
-description:      'A simple* man with a wonderful wife, 2 daughters… <br> <br> *Likes footnotes.'
+description:      '…a simple blog by a simple man.'
 
 url:              http://bazbt3.github.io
 baseurl:          /
