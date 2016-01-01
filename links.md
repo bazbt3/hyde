@@ -10,7 +10,7 @@ permalink: /links/
 
 * I'm [@bazbt3](http://app.net/bazbt3) at the App.net social network.
 * [My main blog](http://bazbt3.re-app.net/) - hosted at 10 Centuries.
-* I have a [Github.com profile](https://github.com/bazbt3) and a few repositories of my own creation.
+* I have a [Github.com profile](https://github.com/bazbt3) with a few repositories of my own creation and a couple of [Github gists](https://gist.github.com/bazbt3).
 * I'm unnaturally pleased with the work I've done for the volunteer-created and driven [App.net Wiki](http://appdotnetwiki.net/)
 * My [test site](http://www.bt3.com) - bt3.com, a domain I've owned since 1997!
 
