@@ -19,3 +19,6 @@ author:
   url:            https://app.net/bazbt3
 
 paginate:         5
+
+gems:
+  - jekyll-feed
