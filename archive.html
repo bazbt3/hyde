@@ -1,0 +1,23 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+<h2> <p> Archive </p> </h2>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h3 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
