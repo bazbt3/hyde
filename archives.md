@@ -10,4 +10,4 @@ Right now I really can't think of a way to display the post archive, other than 
 
 It's all a bit clunky.
 
-[test](archive.html)
+[test](/archive.html)
