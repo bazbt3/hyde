@@ -4,7 +4,7 @@ title: Everything else
 permalink: /links/
 ---
 
-## A page of links
+## A page of stuff
 
 ### Me, mine:
 
@@ -13,6 +13,10 @@ permalink: /links/
 * I have a [Github.com profile](https://github.com/bazbt3) with a few repositories of my own creation and a couple of [Github gists](https://gist.github.com/bazbt3).
 * I'm unnaturally pleased with the work I've done for the volunteer-created and driven [App.net Wiki](http://appdotnetwiki.net/)
 * My [test site](http://www.bt3.com) - bt3.com, a domain I've owned since 1997!
+
+### App.net:
+
+* [#ThemeMonday](/pages/thememonday.md) - a simple premise; a group of like-minded App.net people change their avatars monthly to a chosen theme.
 
 ### Others':
 
