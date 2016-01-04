@@ -9,4 +9,12 @@ This uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
 
 ---
 
+### Todo:
+
+- [ ] Create an 'Everything else' section linking to .md files within a /pages/ folder.
+- [ ] Update 'Apple' icon image to my personal avatar.
+- [ ] Create an automatic archive generator page.
+
+---
+
 See [README.md](https://github.com/poole/hyde/blob/master/README.md) (the original) for more.
