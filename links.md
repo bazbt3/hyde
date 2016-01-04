@@ -16,7 +16,7 @@ permalink: /links/
 
 ### App.net:
 
-* [\#ThemeMonday](/pages/thememonday.md) - a simple premise; a group of like-minded App.net people change their avatars monthly to a chosen theme.
+* [\#ThemeMonday](pages/thememonday.md) - a simple premise; a group of like-minded App.net people change their avatars monthly to a chosen theme.
 
 ### Others':
 
