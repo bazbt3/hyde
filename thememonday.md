@@ -12,7 +12,7 @@ ThemeMonday for the Monday:
 
 ### 2016 January 11:
 
-* [x] The call to vote: here.
+* [x] The call to vote: [here.](/_posts/2016-01-04-thememonday-call.md)
 * [ ] The choices: here.
 * [ ] The vote: here.
 * [ ] The result: here!
