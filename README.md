@@ -1,6 +1,6 @@
 ## A simple blog, done in a complex manner.
 
-### This uses the
+### What:
 
 This uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
 
@@ -17,4 +17,4 @@ This uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
 
 ---
 
-See [README.md](https://github.com/poole/hyde/blob/master/README.md) (the original) for more.
+See [README.md](https://github.com/poole/hyde/blob/master/README.md) (the original) for more technical details.
