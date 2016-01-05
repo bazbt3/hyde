@@ -16,10 +16,11 @@ permalink: /thememonday/
 
 [x] The call to vote: [here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
 
-[…] The choices, ongoing here:
+[…] The people's suggestions , ongoing here:
 
 * \#RandomMonday - @cn    
 * \#OfficeMonday - @blumenkraft
+* \*HappierMondays - @mcdemarco
 
 [ ] The vote: here.
 
