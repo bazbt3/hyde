@@ -20,7 +20,7 @@ permalink: /thememonday/
 
 * \#RandomMonday - @cn    
 * \#OfficeMonday - @blumenkraft
-* \*HappierMondays - @mcdemarco
+* \#HappierMondays - @mcdemarco
 
 [ ] The vote: here.
 
