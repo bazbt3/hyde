@@ -10,9 +10,9 @@ permalink: /thememonday/
 
 ---
 
-### ThemeMonday for the Monday:
+### ThemeMonday for the Mondays:
 
-**2016 January 11:**
+##2016 January 11:
 
 [x] The call to vote: [here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
 
