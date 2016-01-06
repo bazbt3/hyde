@@ -28,3 +28,4 @@ permalink: /links/
 ### Meta:
 
 * This blog uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
+* The [App.net Comments Widget](http://blog.app.net/2014/02/13/what-is-the-app-net-comments-widget/) is by @voidfiles.
