@@ -16,9 +16,9 @@ permalink: /thememonday/
 
 ##2016 January 11:
 
-[x] The call to vote: [here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
+[x] The call to vote: [a post here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
 
-[…] The people's suggestions, ongoing here:
+[x] Suggestions from App.net people just like you:
 
 * \#RandomMonday - @cn    
 * \#OfficeMonday - @blumenkraft
@@ -26,8 +26,10 @@ permalink: /thememonday/
 * \#ComicsMonday - @cano
 * \#StarWarsMonday - @ronnie
 
-Before it gets unwieldy for the vote, should we cap the list at a predetermined number??  Let me know!  In any event, @polls tops out at 10 entries.
+[…] The vote is up, posted at [polls.abrah.am.](https://polls.abrah.am/polls/568d7879d4b0bf0003689678)
 
-[ ] The vote: here.
+[ ] The result: will appear here!
 
-[ ] The result: here!
+---
+
+Before it gets unwieldy for the vote, should we cap the list at a predetermined number in the future??  Let me know!  In any event, @polls tops out at 10 entries.
