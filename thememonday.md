@@ -16,11 +16,15 @@ permalink: /thememonday/
 
 [x] The call to vote: [here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
 
-[…] The people's suggestions , ongoing here:
+[…] The people's suggestions, ongoing here:
 
 * \#RandomMonday - @cn    
 * \#OfficeMonday - @blumenkraft
 * \#HappierMondays - @mcdemarco
+* \#ComicsMonday - @cano
+* \#StarWarsMonday - @ronnie
+
+Before it gets unwieldy for the vote, should we cap the list at a predetermined number??  Let me know!  In any event, @polls tops out at 10 entries.
 
 [ ] The vote: here.
 
