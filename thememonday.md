@@ -16,9 +16,7 @@ permalink: /thememonday/
 
 ##2016 January 11:
 
-[x] The call to vote: [a post here.](http://bazbt3.github.io/2016/01/04/thememonday-call/)
-
-Testing [a post here.]({% post_url 2016-01-04-thememonday-call %})
+[x] The call to vote: [a post here.]({% post_url 2016-01-04-thememonday-call %})
 
 [x] Suggestions from App.net people just like you:
 
