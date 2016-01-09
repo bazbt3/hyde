@@ -5,9 +5,7 @@ title: ADNHackDay
 
 App.net's [@lukasros asked](https://posts.app.net/66888589) a couple of days ago:
 
-> "Hello people of App.net! What do you think about having another #ADNHackDay / #CommunityHackDay?
-> .
-> Pinging @matigo @33mhz @duerig @ryantharp @flashblu @adnfuture @pamdavis @jvimedia @cgiffard @blumenkraft and everyone else."
+> "Hello people of App.net! What do you think about having another #ADNHackDay / #CommunityHackDay? <br> Pinging @matigo @33mhz @duerig @ryantharp @flashblu @adnfuture @pamdavis @jvimedia @cgiffard @blumenkraft and everyone else."
 
 The weekend of January 30/31 has been proposed.  And I'm vaguely excited!
 
