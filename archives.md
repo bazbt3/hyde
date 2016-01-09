@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Archives
-permalink: /archives/
+title: Archive (old)
 ---
 
 ### An apology:

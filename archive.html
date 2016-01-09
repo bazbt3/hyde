@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Archive (test)
+title: Archive
 permalink: /archive/
 ---
+
+<p>
+  An archive\* of my blog posts:
+</p>
 
 <ul>
   {% for post in site.posts %}
@@ -10,7 +14,10 @@ permalink: /archive/
       <h3>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h3>
-       <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        <span class="post-date">{{ post.date | date_to_long_string }}</span>
     </li>
   {% endfor %}
 </ul>
+
+<hr>
+
