@@ -11,7 +11,8 @@ This uses the [poole/hyde](https://github.com/poole/hyde) repo as its base.
 
 ### Todo:
 
-- […] Create an 'Everything else' section linking to .md files within a /pages/ folder.
+- [x] Create an 'Everything else' section.
+- [ ] Link 'Everything else' to .md files within a /pages/ folder.
 - [x] Update 'Apple' icon image to my personal avatar.
 - [ ] Create an automatic archive generator page.
 
