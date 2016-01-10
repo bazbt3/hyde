@@ -8,6 +8,7 @@ My test blog at **[bazbt3.github.io.](http://bazbt3.github.io/)**
 (Not-done first.)
 
 - [ ] Link 'Everything else' to .md files within a /pages/ folder.
+- [x] Add post excerpts to the Archive page.
 - [x] Create an automatic archive generator page.
 - [x] Update 'Apple' icon image to my personal avatar.
 - [x] Create an 'Everything else' section.
