@@ -19,9 +19,18 @@ permalink: /thememonday/
 
 ### ThemeMonday for the Mondays:
 
-##2016 January 11:
+## Next up, 2016 February 8:
 
-[x] The call to vote: [a post here.]({% post_url 2016-01-04-thememonday-call %}) (I'll probably link to the ADN post next time.)
+[ ] The call to action, an App.net post,    
+[ ] Suggestions from App.net people just like you,    
+[ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)    
+[ ] Call the vote.
+
+---
+
+## 2016 January 11:
+
+[x] The call to action: [a post here.]({% post_url 2016-01-04-thememonday-call %}) (I'll probably link to the ADN post next time.)
 
 [x] Suggestions from App.net people just like you:
 
