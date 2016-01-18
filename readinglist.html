@@ -13,9 +13,8 @@ permalink: /readinglist/
 
 <ul>
   {% for member in site.data.readinglist %}
-    <li>
-      {{ readinglist.name }} 
-      <a href="{{ readinglist.link }}"> {{ readinglist.link }}
+    <li> 
+      <a href="{{ readinglist.link }}"> {{ readinglist.name }}
       </a>
     </li>
   {% endfor %}
