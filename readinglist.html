@@ -1,0 +1,22 @@
+---
+layout: page
+title: Reading list
+permalink: /readinglist/
+---
+
+<p>
+  <h3>A public reading list</h3>
+</p>
+<p>
+ Links to things that might be interesting to me.
+</p>
+
+<ul>
+  {% for member in site.data.readinglist %}
+    <li>
+      {{ readinglist.name }} 
+      <a href="{{ readinglist.link }}"> {{ readinglist.link }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
