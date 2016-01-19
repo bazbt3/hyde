@@ -17,7 +17,23 @@ permalink: /readinglist/
 
 <ul>
   {% for entry in site.data.readinglist %}
-    {{% if entry.current == '1' %}}
+    {{% if entry.current == 1 %}}
+      <li> 
+         <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
+        {{ entry.link }}
+        </a>
+      </li>
+    {{% endif %}}
+  {% endfor %}
+</ul>
+
+<p>
+  <h3>Read:</h3>
+</p>
+
+<ul>
+  {% for entry in site.data.readinglist %}
+    {{% if entry.current == 0 %}}
       <li> 
          <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
         {{ entry.link }}
