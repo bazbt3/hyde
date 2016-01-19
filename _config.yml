@@ -11,7 +11,8 @@ title:            '@bazbt3'
 tagline:          '…a simple blog by a simple man.'
 description:      '…a simple blog by a simple man.'
 
-url:              http://bazbt3.github.io
+name:             '@bazbt3'
+url:               http://bazbt3.github.io
 baseurl:          /
 
 author:
