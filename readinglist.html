@@ -11,10 +11,14 @@ permalink: /readinglist/
  Links to things that might be interesting to me.
 </p>
 
+<p>
+  <h3>Current:</h3>
+</p>
+
 <ul>
   {% for entry in site.data.readinglist %}
     <li> 
-      <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
+       <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
       {{ entry.link }}
       </a>
     </li>
