@@ -12,10 +12,10 @@ permalink: /readinglist/
 </p>
 
 <ul>
-  {% for member in site.data.readinglist %}
+  {% for entry in site.data.readinglist %}
     <li> 
-      <a href="{{ readinglist.link }}">
-        {{ readinglist.name }}
+      <a href="{{ entry.link }}">
+        {{ entry.name }}
       </a>
     </li>
   {% endfor %}
