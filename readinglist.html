@@ -17,11 +17,13 @@ permalink: /readinglist/
 
 <ul>
   {% for entry in site.data.readinglist %}
-    <li> 
-       <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
-      {{ entry.link }}
-      </a>
-    </li>
+    {{% if entry.current == "1" %}}
+      <li> 
+         <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
+        {{ entry.link }}
+        </a>
+      </li>
+    {{% endif %}}
   {% endfor %}
 </ul>
 

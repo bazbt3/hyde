@@ -1,5 +1,6 @@
-name,link
-Bobby's Lament by @mlv,https://github.com/mlv/stories/blob/master/BobbysLament.md
-Jekyll Liquid Data files,http://jekyllrb.com/docs/datafiles/
-My test blog,http://baz.bt3.com/
-My primary blog,http://blog.bt3.com/
+current,name,link
+1,Bobby's Lament by @mlv,https://github.com/mlv/stories/blob/master/BobbysLament.md
+1,Jekyll Liquid Data files,http://jekyllrb.com/docs/datafiles/
+1,My test blog,http://baz.bt3.com/
+1,My primary blog,http://blog.bt3.com/
+0,A test,http://www.google.com/
