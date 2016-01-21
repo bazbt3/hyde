@@ -13,7 +13,7 @@ permalink: /thememonday/
 
 1. Weekend: Ask for suggestions,
 2. Thursday evening: Create poll,
-5. Saturday evening/Sunday morning: Announce result!
+3. Saturday evening/Sunday morning: Announce result!
 
 ---
 
@@ -21,14 +21,19 @@ permalink: /thememonday/
 
 ## Next up, 2016 February 8:
 
-[ ] The call to action, an App.net post,    
-[ ] Suggestions from App.net people just like you,    
-[ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)    
+[ ] The call to action, an App.net post,
+
+[…] Suggestions from App.net people just like you:
+
+* \#UpsidedownMonday - [@mrshaiku](https://posts.app.net/67004847)
+
+[ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
+
 [ ] Call the vote.
 
 ---
 
-## 2016 January 11:
+## [x] 2016 January 11:
 
 [x] The call to action: [a post here.]({% post_url 2016-01-04-thememonday-call %}) (I'll probably link to the ADN post next time.)
 
@@ -52,3 +57,4 @@ Have fun with it everyone!
 
 ---
 
+ 
