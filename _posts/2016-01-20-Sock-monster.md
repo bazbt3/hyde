@@ -31,7 +31,7 @@ We chose a safe spot on the back seat for the glue and sock, and waited for her 
 
 All the while I gave a running commentary, ostensibly for my daughter's benefit but a safety blanket for me.  The pressure inherent in such situations is probably beyond the understanding of a non-parent.  I'm sure it would have amused *any* adult within earshot.
 
-We always chat about stuff during lulls between life and life, my daughter's and I.  Stars & planets, cars, condensation, school lunches and their friends and creations.  Today not much chat, aside from a few words about her new thing.  It's got rice and lavender inside it snd smells lovely.  We'd best not let Ruby dog anywhere near lest…
+We always chat about stuff during lulls between life and life, my daughter's and I.  Stars & planets, cars, condensation, school lunches and their friends and creations.  Today not much chat, aside from a few words about her new thing.  It's got rice and lavender inside it and smells lovely.  We'd best not let Ruby dog anywhere near lest…
 
 Daughter 1 emerged a few minutes later, we buckled up and drove home.
 
