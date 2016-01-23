@@ -17,13 +17,11 @@ permalink: /readinglist/
 
 <ul>
   {% for entry in site.data.readinglist %}
-    {{% if entry.notread contains 'Y' %}}
       <li> 
-         <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
-        {{ entry.link }}
-        </a>
-      </li>
-    {{% endif %}}
+        {% if entry.notread == 'N' %} <strong>{{ entry.name }}:</strong> {% elsif entry.notread == 'Y' %} {{ entry.name}}: {% endif %} <a href="{{ entry.link }}">
+      {{ entry.link }}
+      </a>
+    </li>
   {% endfor %}
 </ul>
 
