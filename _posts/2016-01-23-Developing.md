@@ -22,7 +22,7 @@ The executive summary:
 3. Remove the entry (all the text) in the `CNAME` file and save it back to your repo.  This forms one half of a redirect from a domain external to GitHub Pages.
 4. Customise the fields within the `_config.yml` file and save it.  This effectively personalises the new site.
 5. Edit the post within the `_data` folder.  This is to test whether the basics are working.
-6. Browse to [your GitHub username].github.io - and you should see something superficially like poole/hyde and my sites, but with your content.
+6. Browse to `[your GitHub username].github.io` - and you should see something superficially like poole/hyde and my sites, but with your content.
 7. Fix anything that doesn't quite work.
 94. Success!
 
