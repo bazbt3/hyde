@@ -18,11 +18,13 @@ permalink: /readinglist/
 <ul>
   {% for entry in site.data.readinglist %}
       <li> 
-        {% if entry.notread == 'N' %} <strong>{{ entry.name }}:</strong> {% elsif entry.notread == 'Y' %} {{ entry.name}}: {% endif %} <a href="{{ entry.link }}">
+        {% if entry.read == 'N' %} <strong>{{ entry.name }}:</strong> {% elsif entry.read == 'Y' %} {{ entry.name}}: {% endif %} <a href="{{ entry.link }}">
       {{ entry.link }}
       </a>
     </li>
   {% endfor %}
 </ul>
 
-<p>(Data driven page: a Jekyll & Liquid script formats and publishes the contents of a simple .csv file.)</p>
+<p>
+  <strong>(Data driven page:</strong> a Jekyll & Liquid script formats and publishes the contents of a simple .csv file.)
+</p>
