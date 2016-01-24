@@ -45,7 +45,7 @@ Because there's more to blogging than fiddling with site nuts and bolts, SEO, te
 
 Besides, [10Centuries v4] (http://10centuries.org/) is due soon (currently in invite-only beta) and that's an *entirely* different ballgame!
 
-Despite my what it states in my App.net [bio](http://apo.net/bazbt3) I am \#NotADeveloper.
+Despite my what it states in my App.net [bio](http://app.net/bazbt3) I am \#NotADeveloper.
 
 But it helps to have a basic understanding of what it takes to *be* one.
 
