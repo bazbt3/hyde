@@ -1,0 +1,30 @@
+---
+layout: page
+title: Reading list
+permalink: /readinglist/
+---
+
+<p>
+  <h3>A public reading list</h3>
+</p>
+<p>
+ Links to things that might be interesting to me.
+</p>
+
+<p>
+  <strong>Unread</strong>/read.
+</p>
+
+<ul>
+  {% for entry in site.data.readinglist %}
+      <li> 
+        {% if entry.read == 'N' %} <strong>{{ entry.name }}:</strong> <a href="{{ entry.link }}">
+      {{ entry.link }}
+      </a> {% elsif entry.read == 'Y' %} {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<p>
+  <strong>(Data driven page:</strong> a Jekyll & Liquid script formats and publishes the contents of a simple .csv file.)
+</p>
