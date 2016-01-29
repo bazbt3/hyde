@@ -1,6 +1,6 @@
 ---
 layout: page
-title: \#ThemeMonday
+title: #ThemeMonday
 permalink: /thememonday/
 ---
 
