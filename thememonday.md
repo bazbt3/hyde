@@ -21,11 +21,12 @@ permalink: /thememonday/
 
 ## Next up, 2016 February 8:
 
-[ ] The call to action, an App.net post,
+[x] The call to action, [an App.net post](https://posts.app.net/67358476),
 
 […] Suggestions from App.net people just like you:
 
 * \#UpsidedownMonday - [@mrshaiku](https://posts.app.net/67004847)
+* \#TriageMonday [@bazbt3](https://posts.app.net/67358620)
 
 [ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
 
