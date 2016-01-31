@@ -26,7 +26,8 @@ permalink: /thememonday/
 […] Suggestions from App.net people just like you:
 
 * \#UpsidedownMonday - [@mrshaiku](https://posts.app.net/67004847)
-* \#TriageMonday [@bazbt3](https://posts.app.net/67358620)
+* \#TriageMonday - [@bazbt3](https://posts.app.net/67358620)
+* \#ApathyMonday - @cn
 
 [ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
 
