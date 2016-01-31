@@ -7,7 +7,7 @@ In a couple of weeks time it'll be Valentine's Day.  I'll be buying a card and s
 
 I really don't know what to buy; maybe the two things'll suffice?  Heck, I'll be second-guessing myself with *that* one until the day.  *And* afterwards.
 
-The problem is simple: I peaked in 2005.
+The problem is simple: I peaked in 2006.
 
 We found a bona-fide Scottish castle\* to spend a couple of nights of romantic whatever-we-used-to-do-before-the-girls-arrived at.  A typical utilitarian design externally, set in extensive grounds, with its own lake.
 
