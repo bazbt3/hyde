@@ -28,6 +28,7 @@ permalink: /thememonday/
 * \#UpsidedownMonday - [@mrshaiku](https://posts.app.net/67004847)
 * \#TriageMonday - [@bazbt3](https://posts.app.net/67358620)
 * \#ApathyMonday - @cn
+* \#DuckMonday - [@cn](https://posts.app.net/67359635)
 
 [ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
 
