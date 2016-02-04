@@ -23,7 +23,7 @@ permalink: /thememonday/
 
 [x] The call to action, [an App.net post](https://posts.app.net/67358476),
 
-[…] Suggestions from App.net people just like you:
+[x] Suggestions from App.net people just like you:
 
 * \#UpsidedownMonday - [@mrshaiku](https://posts.app.net/67004847)
 * \#TriageMonday - [@bazbt3](https://posts.app.net/67358620)
@@ -32,8 +32,9 @@ permalink: /thememonday/
 * \#LoveMonday - [@cano](https://posts.app.net/67360077)
 * \#GarfieldMonday - [@grumpy](https://posts.app.net/67360086)
 * \#LeapMonday - [@mcdemarco](https://posts.app.net/67365107)
+* \#RoboMonday - [@hybotics](https://posts.app.net/67438883)
 
-[ ] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
+[…] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
 
 [ ] Call the vote.
 
