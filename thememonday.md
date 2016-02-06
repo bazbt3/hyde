@@ -8,12 +8,14 @@ permalink: /thememonday/
 
 [\#ThemeMonday](https://alpha.app.net/hashtags/thememonday) (live hashtag) on App.net has a simple premise; a group of like-minded people change their avatars on or around the second Monday of every month, to a theme chosen by them after shortlisting and then a vote.  ([More](http://appdotnetwiki.net/w/index.php?title=ThemeMonday), though now out-of-date, at the App.net Wiki.)
 
-### Tentative timeline:    
+### Tentative timeline, rule:    
 (Starting a week prior.)
 
 1. Weekend: Ask for suggestions,
 2. Thursday evening: Create poll,
 3. Saturday evening/Sunday morning: Announce result!
+
+* In the event of a tiebreaker being necessary I shall send a PM to @mlv's [Eliza_Bot](https://alpha.app.net/eliza_bot) asking her to `roll 1dn` (where n is the number of tying choices.)
 
 ---
 
