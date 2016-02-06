@@ -34,7 +34,7 @@ permalink: /thememonday/
 * \#LeapMonday - [@mcdemarco](https://posts.app.net/67365107)
 * \#RoboMonday - [@hybotics](https://posts.app.net/67438883)
 
-[…] The vote, to be posted at [polls.abrah.am,](polls.abrah.am)
+[x] The vote is up, posted at [polls.abrah.am.](https://polls.abrah.am/polls/56b5d073ae163900038b89cb)
 
 [ ] Call the vote.
 
