@@ -56,7 +56,7 @@ permalink: /thememonday/
 
 [x] The vote is up, posted at [polls.abrah.am.](https://polls.abrah.am/polls/568d7879d4b0bf0003689678)
 
-[x] Called at 9;30am UK time, the poll result:
+[x] Called at 9:30am UK time, the poll result:
 
 **\#ThemeMonday for for January 11th 2016 is:**
 
