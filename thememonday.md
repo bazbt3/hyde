@@ -21,7 +21,7 @@ permalink: /thememonday/
 
 ### ThemeMonday for the Mondays:
 
-## Next up, 2016 February 8:
+## [x] 2016 February 8:
 
 [x] The call to action, [an App.net post](https://posts.app.net/67358476),
 
