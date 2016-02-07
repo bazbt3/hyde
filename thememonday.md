@@ -38,7 +38,13 @@ permalink: /thememonday/
 
 [x] The vote is up, posted at [polls.abrah.am.](https://polls.abrah.am/polls/56b5d073ae163900038b89cb)
 
-[ ] Call the vote.
+[x] Called at 10:30am UK time, the poll result:
+
+**\#ThemeMonday for for February 8th 2016 is:**
+
+## [\#UpsideDownMonday!](https://alpha.app.net/hashtags/UpsideDownMonday)
+
+Don't forget to tell your friends!
 
 ---
 
