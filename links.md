@@ -36,7 +36,7 @@ I'm [@bazbt3](https://alpha.app.net/bazbt3) on the App.net social network.
 ### Others':
 
 * **Blogging:** Jason Irwin's [10Centuries.com](http://10centuries.com/) - my *real* blog host.
-* **Coding:** [ericdke's](https://github.com/ericdke) [Ayadn] (https://github.com/ericdke/na) App.net command line client. (My ['ayadn_shell'] (https://github.com/bazbt3/ayadn_shell) repo's shell script menu ran over it, might still.)
+* **Coding:** [ericdke's](https://github.com/ericdke) [Ayadn] (https://github.com/ericdke/na) App.net command line client. (My ['ayadn_shell'](https://github.com/bazbt3/ayadn_shell) repo's shell script menu ran over it, might still.)
 * **Eating:** [Edward Vielmetti's](https://github.com/vielmetti) [sandwich repo](https://github.com/vielmetti/sandwich) became the inspiration for my [recipes](https://github.com/bazbt3/recipes) repo.
 
 ---
