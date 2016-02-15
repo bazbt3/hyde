@@ -1,8 +1,9 @@
 read,name,link
+N,Gogs - Go Git Service,https://gogs.io/
 Y,Run Jekyll on Windows,http://jekyll-windows.juthilo.com
 Y,Gitlab EE pages-jekyll repo example,https://gitlab.com/gitlab-examples/pages-jekyll
 Y,Kiwi - for addition to the ADN Wiki - ask @33mhz for details,https://posts.app.net/67482459
-N,Installing Linux on a Chromebook,https://www.linux.com/learn/tutorials/795730-how-to-easily-install-ubuntu-on-chromebook-with-crouton
+Y,Installing Linux on a Chromebook,https://www.linux.com/learn/tutorials/795730-how-to-easily-install-ubuntu-on-chromebook-with-crouton
 Y,Twtxt - Decentralised minimalist microblogging service for hackers - via @adiabatic,https://github.com/buckket/twtxt
 Y,How to use Windows 10 File History backup feature,http://www.pcworld.com/article/2974385/windows/how-to-use-windows-10s-file-history-backup-feature.html
 Y,Arq backup service,https://www.arqbackup.com/features/wiki
