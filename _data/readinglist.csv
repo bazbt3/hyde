@@ -1,8 +1,10 @@
 read,name,link
-N,Raspberry Pi DDNS,http://ip.raspctl.com/
-N,Latest Ubuntu phone,http://www.engadget.com/2016/02/17/meizu-pro-5-ubuntu-edition/
-N,Ruby enVironment (Version) Manager basics,https://rvm.io/rvm/basics
-N,Gogs - Go Git Service - thanks @mlv,https://gogs.io/
+N,Filezilla FTP command line,https://wiki.filezilla-project.org/Command-line_arguments_(Client)
+N,GitHub Git command line tutorial (starting with Set Up Git!),https://help.github.com/articles/set-up-git/
+Y,Raspberry Pi DDNS (defunct!),http://ip.raspctl.com/
+Y,Latest Ubuntu phone,http://www.engadget.com/2016/02/17/meizu-pro-5-ubuntu-edition/
+Y,Ruby enVironment (Version) Manager basics,https://rvm.io/rvm/basics
+Y,Gogs - Go Git Service - thanks @mlv,https://gogs.io/
 Y,Run Jekyll on Windows,http://jekyll-windows.juthilo.com
 Y,Gitlab EE pages-jekyll repo example,https://gitlab.com/gitlab-examples/pages-jekyll
 Y,Kiwi - for addition to the ADN Wiki - ask @33mhz for details,https://posts.app.net/67482459
