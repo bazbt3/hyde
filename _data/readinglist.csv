@@ -1,4 +1,5 @@
 read,name,link
+N,Git reference,http://gitref.org/
 N,Filezilla FTP command line,https://wiki.filezilla-project.org/Command-line_arguments_(Client)
 N,GitHub Git command line tutorial (starting with Set Up Git!),https://help.github.com/articles/set-up-git/
 Y,Raspberry Pi DDNS (defunct!),http://ip.raspctl.com/
