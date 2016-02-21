@@ -1,3 +1,9 @@
+# OBSOLETE - SEE MY LATER VERSION
+
+## (My bazbt3.github.io repo is now unforked from the original.)
+
+---
+
 ## A simple blog, done in a complex manner.
 
 ### What:
